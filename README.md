@@ -1,5 +1,7 @@
 # Welcome to my hub!
 
+![View of pyramids in Teotihuacan, Mexico](./20190806085736297.jpg "Teotihuacan, Mexico")
+
 - 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning ...
