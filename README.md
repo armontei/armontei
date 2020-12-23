@@ -1,6 +1,6 @@
 # ✨ Welcome To My Hub ✨
 
-## I'm Amanda (she/her): a front-end developer, solo travel enthusiast, and meme making machine
+## I'm Amanda (she/her): a front-end developer, solo travel enthusiast, and meme connoisseur
 
 ![View of pyramids in Teotihuacan, Mexico](./20190806085736297.jpg "Teotihuacan, Mexico")
 
