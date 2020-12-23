@@ -1,4 +1,4 @@
-# ✨ Welcome to my hub ✨
+# ✨ Welcome To My Hub ✨
 
 ## I'm Amanda (she/her): a front-end developer, solo travel enthusiast, and meme making machine
 
