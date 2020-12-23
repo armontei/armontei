@@ -8,4 +8,4 @@
 
 🔎 I like to pay attention to the little things that often gets overlooked by other. 
 
- All websites should be accessible to users regardless of visual impairments, mobility issues, hearing difficults, or device size. I hope to make that a reality with everything I create.
+🤝 All websites should be accessible to users regardless of visual impairments, mobility issues, hearing difficults, or device size. I hope to make that a reality with everything I create.
