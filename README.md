@@ -1,19 +1,11 @@
-# Welcome to my hub!
+# ✨ Welcome to my hub ✨
+
+## I'm Amanda (she/her): a front-end developer, solo travel enthusiast, and meme making machine
 
 ![View of pyramids in Teotihuacan, Mexico](./20190806085736297.jpg "Teotihuacan, Mexico")
 
-- 🔭 I’m currently working on ...
+I'm fairly new to the world of coding, but I've been interested in it ever since I figured out how to extract profile layout styles from other user's Neopet's profiles I liked and use them on my own. I also had a really cool customized LiveJournal layout.
 
-- 🌱 I’m currently learning ...
+I like to pay attention to the little things that often gets overlooked by other. 
 
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: She/Her
-
-- ⚡ Fun fact: ...
+All websites should be accessible to users regardless of visual impairments, mobility issues, hearing difficults, or device size. I hope to make that a reality with everything I create.
