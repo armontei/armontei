@@ -1,4 +1,4 @@
-# ✨ Welcome To My Hub ✨
+<h1 align="center"> ✨ Welcome To My Hub ✨</h1>
 
 ## I'm Amanda (she/her): a front-end developer, solo travel enthusiast, and meme connoisseur
 
