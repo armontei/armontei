@@ -2,7 +2,7 @@
 
 ## I'm Amanda (she/her): a front-end developer, solo travel enthusiast, and meme connoisseur
 
-![View of pyramids in Teotihuacan, Mexico](./20190806085736297.jpg "Teotihuacan, Mexico")
+<p align="center"><img src="./20190806085736297.jpg" alt="View of pyramids in Teotihuacan, Mexico" ></p>
 
 🐒 I'm fairly new to the world of web dev, but I've been interested in coding ever since I figured out how to extract layout styles from Neopets' profiles and use them in my own.
 
