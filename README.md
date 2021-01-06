@@ -9,7 +9,7 @@
 
 ## • View my Work •
 
-See all my projects at a glance in my [GitHub Directory](armontei.github.io).
+See all my projects at a glance in my [GitHub Directory](https://armontei.github.io/).
 
 <img src="./GitHubDirectory.gif">
 
