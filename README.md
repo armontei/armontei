@@ -10,7 +10,9 @@
 
 ## • View my Work •
 
-See all my projects at a glance in my [GitHub Repository Directory](armontei.github.io).
+See all my projects at a glance in my [GitHub Directory](armontei.github.io).
+
+<img src="./GitHubDirectory.gif">
 
 ---------------------------------------------
 
