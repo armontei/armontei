@@ -1,12 +1,11 @@
 <h1 align="center"> ✨ Welcome To My Hub ✨</h1>
 
-## I'm Amanda (she/her): a front-end developer, solo travel enthusiast, and avid pun supplier
+## • I'm Amanda (she/her): a front-end developer, solo travel enthusiast, and avid pun supplier •
 
 📅 Book a Meeting with me through [Calendly](https://calendly.com/a3monteiro/30min)
 
 💌 E-mail me directly at [a3monteiro@gmail.com](mailto:a3monteiro@gmail.com)
 
----------------------------------------------
 
 ## • View my Work •
 
@@ -14,7 +13,6 @@ See all my projects at a glance in my [GitHub Directory](armontei.github.io).
 
 <img src="./GitHubDirectory.gif">
 
----------------------------------------------
 
 ## • What Coding Means To Me •
 
