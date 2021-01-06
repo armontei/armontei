@@ -9,7 +9,7 @@
 
 ## • View my Work •
 
-See all my projects at a glance in my [GitHub Directory](https://armontei.github.io/).
+See all my projects at a glance or filter by programming language in my [GitHub Directory](https://armontei.github.io/).
 
 <img src="./GitHubDirectory.gif">
 
