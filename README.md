@@ -9,9 +9,9 @@
 
 ## • View my Work •
 
-See all my projects at a glance or filter by programming language in my [GitHub Directory](https://armontei.github.io/).
-
 Toolkit: HTML | CSS (SCSS, Tailwind CSS) | JavaScript (React, jQuery, Node) | RESTful APIs | Firebase
+
+See all my projects at a glance or filter by programming language in my [GitHub Directory](https://armontei.github.io/).
 
 <img src="./GitHubDirectory.gif">
 
