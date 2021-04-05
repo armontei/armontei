@@ -2,9 +2,7 @@
 
 ## • I'm Amanda (she/her): a front-end developer, solo travel enthusiast, and avid pun supplier •
 
-📅 Book a Meeting with me through [Calendly](https://calendly.com/a3monteiro/30min)
-
-💌 E-mail me directly at [a3monteiro@gmail.com](mailto:a3monteiro@gmail.com)
+📅  Book a Meeting with me through [Calendly](https://calendly.com/a3monteiro/30min)
 
 
 ## • View my Work •
